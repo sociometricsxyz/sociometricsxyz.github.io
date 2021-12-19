@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./BrandsView\";","map":{"version":3,"sources":["/Users/adrianorlow/Programowanie/commercial/sociometrics-landing/src/components/Home/Brands/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,cAAxB","sourcesContent":["export { default } from \"./BrandsView\";\n"]},"metadata":{},"sourceType":"module"}

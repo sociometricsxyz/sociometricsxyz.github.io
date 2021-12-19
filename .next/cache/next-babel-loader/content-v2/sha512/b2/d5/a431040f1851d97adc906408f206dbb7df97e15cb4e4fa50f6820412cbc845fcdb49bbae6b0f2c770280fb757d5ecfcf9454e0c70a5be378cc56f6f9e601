@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./FooterView\";","map":{"version":3,"sources":["/Users/adrianorlow/Programowanie/commercial/sociometrics-landing/src/shared/Footer/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,cAAxB","sourcesContent":["export { default } from \"./FooterView\";\n"]},"metadata":{},"sourceType":"module"}

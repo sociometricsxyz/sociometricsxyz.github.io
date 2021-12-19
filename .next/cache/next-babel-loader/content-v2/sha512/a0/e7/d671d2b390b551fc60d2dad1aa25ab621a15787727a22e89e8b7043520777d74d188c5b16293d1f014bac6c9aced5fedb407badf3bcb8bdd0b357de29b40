@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var pathsWithHero = [\"/\"];","map":{"version":3,"sources":["/Users/adrianorlow/Programowanie/commercial/sociometrics-landing/src/layout/utils.ts"],"names":["pathsWithHero"],"mappings":"AAAA,OAAO,IAAMA,aAAuB,GAAG,CAAC,GAAD,CAAhC","sourcesContent":["export const pathsWithHero: string[] = [\"/\"];\n"]},"metadata":{},"sourceType":"module"}

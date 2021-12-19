@@ -1,0 +1,1 @@
+{"ast":null,"code":"import getConfig from \"next/config\";\nconst {\n  publicRuntimeConfig\n} = getConfig();\nexport const BASE_PATH = false ? window.location.origin : publicRuntimeConfig.BASE_PATH || \"https://sociometrics.xyz/\";\nexport const paths = {\n  home: \"/\"\n};\nexport const titleTemplate = \"%s | Sociometrics\";","map":null,"metadata":{},"sourceType":"module"}

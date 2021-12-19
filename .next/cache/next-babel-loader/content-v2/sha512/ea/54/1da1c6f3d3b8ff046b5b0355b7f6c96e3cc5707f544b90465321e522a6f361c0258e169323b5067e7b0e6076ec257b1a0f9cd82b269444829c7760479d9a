@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as Hero } from \"./Hero\";","map":{"version":3,"sources":["/Users/adrianorlow/Programowanie/commercial/sociometrics-landing/src/components/Home/index.ts"],"names":["default","Hero"],"mappings":"AAAA,SAASA,OAAO,IAAIC,IAApB,QAAgC,QAAhC","sourcesContent":["export { default as Hero } from \"./Hero\";\n"]},"metadata":{},"sourceType":"module"}
